@@ -1,2 +1,5 @@
-# このレポジトリ
-・研究論文の勉強、実装
+# Study&Reseach
+
+- Time Embdding
+- Transformer
+- 勉強中,,,
