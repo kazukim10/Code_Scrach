@@ -1,4 +1,4 @@
-# Study&Reseach
+## Reseach
 
 - Time Embdding
 - Transformer
