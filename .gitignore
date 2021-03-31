@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # dir
-./SSD/data
-./VGG16/hymenoptera_data
+SSD/data/
+VGG16/hymenoptera_data/
