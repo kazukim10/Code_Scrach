@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dir
+./SSD/data
+./VGG16/hymenoptera_data
