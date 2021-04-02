@@ -131,3 +131,4 @@ dmypy.json
 # dir
 SSD/data/
 VGG16/hymenoptera_data/
+.DS_Store
